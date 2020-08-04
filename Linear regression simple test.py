@@ -54,4 +54,4 @@ f.write(f'For Data:\n (X,Y) = {data}\nThe approximate best fit line is y = {sm}x
 f.close()
 PlotD(data,m,c)
 
-#### the ranger and equation (indicated with line of hashes) can be coustomized
+#### the ranger and equation (indicated with line of hashes) can be customized
