@@ -48,7 +48,7 @@ sm = str(m)[:4]
 sc = str(c)[:4] 
 print(f'The approximate best fit line is y = {sm}x + {sc}')
 try:
-  f = open('Data.txt','a'
+  f = open('Data.txt','a')
 except:
   f = open('Data.txt','w')
 f.write(f'For Data:\n (X,Y) = {data}\nThe approximate best fit line is y = {sm}x + {sc}\nWhere m === {m} & c === {c}\n||\n')
