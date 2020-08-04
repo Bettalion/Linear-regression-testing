@@ -1,7 +1,7 @@
 from matplotlib import pyplot as plt
 import random
 from linefinder import *
-#linear regresion
+#linear regresion!
 
 def sortxy(data):
   x=[]
